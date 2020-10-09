@@ -1,0 +1,8 @@
+#sale-table tr:hover {
+    cursor: pointer;
+    background-color: #6e6e6e38;
+}
+
+.navbar {
+    margin-bottom: 1em;
+}
